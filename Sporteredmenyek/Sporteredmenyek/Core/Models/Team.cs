@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Sporteredmenyek.Core.Models
 {
-    class Team
+    public class Team
     {
     }
 }
