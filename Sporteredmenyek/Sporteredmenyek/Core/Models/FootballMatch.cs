@@ -14,8 +14,8 @@ namespace Sporteredmenyek.Core.Models
         public TeamsIntValuePair YellowCards { get; init; }
         public TeamsIntValuePair Corners { get; init; }
         public FootballMatch(
-            Team homeTeam,
-            Team awayTeam, 
+            string homeTeam,
+            string awayTeam, 
             DateTime start_time,
             string location,
              List<TeamsIntValuePair> periodResults,

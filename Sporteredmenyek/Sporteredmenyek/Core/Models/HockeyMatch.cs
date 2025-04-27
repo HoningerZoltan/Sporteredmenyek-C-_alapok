@@ -12,24 +12,21 @@ namespace Sporteredmenyek.Core.Models
 
         public TeamsIntValuePair PenaltyMinutes { get; init; }
         public TeamsIntValuePair ShotsOnGoal { get; init; }
-        public TeamsIntValuePair Saves { get; init; }
 
 
         public HockeyMatch(
-            Team homeTeam, 
-            Team awayTeam, 
+            string homeTeam, 
+            string awayTeam, 
             DateTime start_time, 
             string location,
             List<TeamsIntValuePair> periodResults,
             TeamsIntValuePair result,
             TeamsIntValuePair penaltyMinutes,
-            TeamsIntValuePair shotsOnGoal, 
-            TeamsIntValuePair saves
+            TeamsIntValuePair shotsOnGoal
         )  : base(homeTeam, awayTeam, start_time, location, result)
         {
             PeriodResults = periodResults;
             PenaltyMinutes = penaltyMinutes;
-            Saves = saves;
             ShotsOnGoal = shotsOnGoal;
         }
         public override void Print()

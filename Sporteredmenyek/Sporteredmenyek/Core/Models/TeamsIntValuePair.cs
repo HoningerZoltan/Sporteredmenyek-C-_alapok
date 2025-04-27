@@ -3,8 +3,8 @@
     public struct TeamsIntValuePair
     {
 
-        public int Home { get; }
-        public int Away { get; }
+        public int Home { get; set; }
+        public int Away { get; set; }
         public TeamsIntValuePair(int home, int away)
         {
             Home = home;

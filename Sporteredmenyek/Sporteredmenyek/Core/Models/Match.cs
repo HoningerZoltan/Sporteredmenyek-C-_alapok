@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 namespace Sporteredmenyek.Core.Models
 {
     public abstract record Match(
-        Team HomeTeam,
-        Team AwayTeam,
+        string HomeTeam,
+        string AwayTeam,
         DateTime StartTime,
         string Location,
         TeamsIntValuePair Result

@@ -14,8 +14,8 @@ namespace Sporteredmenyek.Core.Models
         public TeamsIntValuePair ThreePointMade { get; init; }
 
         public BasketballMatch(
-            Team homeTeam,
-            Team awayTeam,
+            string homeTeam,
+            string awayTeam,
             DateTime startTime,
             string location,
             TeamsIntValuePair result,

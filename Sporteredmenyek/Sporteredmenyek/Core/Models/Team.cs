@@ -8,5 +8,6 @@ namespace Sporteredmenyek.Core.Models
 {
     public class Team
     {
+        public string nev;
     }
 }
