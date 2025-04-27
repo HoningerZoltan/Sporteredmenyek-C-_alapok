@@ -6,14 +6,18 @@ using System.Threading.Tasks;
 
 namespace Sporteredmenyek.Core.Models
 {
-    class User
+    public class User
     {
-        public string name;
-        private string _email { get; set; }
-        private string _password { get; set; }
+        private string _name { get; }
+        private string _email { get;}
+        private string _password { get;}
+
+        public string Name => _name;
+        public string Email => _email;
+        public string Password => _password;
 
         public User(string name, string email, string password){
-            this.name = name;
+            this._name = name;
             this._email = email;
             this._password = password;
         }
