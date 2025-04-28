@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Spectre.Console;
 
 namespace Sporteredmenyek.Core.Models
 {
@@ -31,7 +32,7 @@ namespace Sporteredmenyek.Core.Models
         }
         public override void Print()
         {
-            Console.WriteLine("IceHockey");
+
         }
 
 
