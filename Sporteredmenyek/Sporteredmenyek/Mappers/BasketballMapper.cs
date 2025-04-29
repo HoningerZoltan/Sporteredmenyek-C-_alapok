@@ -15,11 +15,6 @@ namespace Sporteredmenyek.Mappers
 
             List<int> periodResultsHome = new List<int>();
             List<int> periodResultsAway = new List<int>();
-            foreach (var result in match.PeriodResults)
-            {
-                periodResultsHome.Add(result.Home);
-                periodResultsAway.Add(result.Away);
-            }
             return new JsonBasketballDto
             {
                 HomeTeam = match.HomeTeam,
@@ -31,9 +26,7 @@ namespace Sporteredmenyek.Mappers
                 FoulsHome = match.Fouls.Home,
                 FoulsAway = match.Fouls.Away,
                 ThreePointMadeHome = match.ThreePointMade.Home,
-                ThreePointMadeAway = match.ThreePointMade.Away,
-                PeriodResultsHome = periodResultsHome,
-                PeriodResultsAway = periodResultsAway
+                ThreePointMadeAway = match.ThreePointMade.Away
 
             };
         }
@@ -43,13 +36,6 @@ namespace Sporteredmenyek.Mappers
             result.Home = dto.ResultHome;
             result.Away = dto.ResultAway;
             List<TeamsIntValuePair> periodResults = new List<TeamsIntValuePair>();
-            for (int i = 0; i < dto.PeriodResultsAway.Count; i++)
-            {
-                TeamsIntValuePair pair = new TeamsIntValuePair();
-                pair.Home = dto.PeriodResultsHome[i];
-                pair.Away = dto.PeriodResultsAway[i];
-                periodResults.Add(pair);
-            }
             TeamsIntValuePair fouls = new TeamsIntValuePair();
             result.Home = dto.FoulsHome;
             result.Away = dto.FoulsAway;
@@ -65,7 +51,6 @@ namespace Sporteredmenyek.Mappers
                 dto.StartTime,
                 dto.Location,
                  result,
-                periodResults,
                 fouls,
                 threePoint
             );

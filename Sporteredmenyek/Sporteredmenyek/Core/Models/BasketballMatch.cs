@@ -20,12 +20,10 @@ namespace Sporteredmenyek.Core.Models
             DateTime startTime,
             string location,
             TeamsIntValuePair result,
-            List<TeamsIntValuePair> periodResults,
             TeamsIntValuePair fouls,
             TeamsIntValuePair threePointMade
         ) : base(homeTeam, awayTeam, startTime, location, result)
         {
-            PeriodResults = periodResults;
             Fouls = fouls;
             ThreePointMade = threePointMade;
         }

@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|f:\\1. egyetemi tanulm\u00E1nyok\\c# alapok\\projekt\\sporteredmenyek-c-_alapok\\sporteredmenyek\\sporteredmenyek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|solutionrelative:sporteredmenyek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|f:\\1. egyetemi tanulm\u00E1nyok\\c# alapok\\projekt\\sporteredmenyek-c-_alapok\\sporteredmenyek\\sporteredmenyek\\core\\models\\basketballmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|solutionrelative:sporteredmenyek\\core\\models\\basketballmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|f:\\1. egyetemi tanulm\u00E1nyok\\c# alapok\\projekt\\sporteredmenyek-c-_alapok\\sporteredmenyek\\sporteredmenyek\\core\\models\\footballmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|solutionrelative:sporteredmenyek\\core\\models\\footballmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|f:\\1. egyetemi tanulm\u00E1nyok\\c# alapok\\projekt\\sporteredmenyek-c-_alapok\\sporteredmenyek\\sporteredmenyek\\core\\models\\hockeymatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|solutionrelative:sporteredmenyek\\core\\models\\hockeymatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|f:\\1. egyetemi tanulm\u00E1nyok\\c# alapok\\projekt\\sporteredmenyek-c-_alapok\\sporteredmenyek\\sporteredmenyek\\mappers\\hockeymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|solutionrelative:sporteredmenyek\\mappers\\hockeymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|f:\\1. egyetemi tanulm\u00E1nyok\\c# alapok\\projekt\\sporteredmenyek-c-_alapok\\sporteredmenyek\\sporteredmenyek\\core\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|solutionrelative:sporteredmenyek\\core\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\bin\\Debug\\net8.0\\Data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sporteredmenyek\\bin\\Debug\\net8.0\\Data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\bin\\Debug\\net8.0\\Data\\footballMatches.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sporteredmenyek\\bin\\Debug\\net8.0\\Data\\footballMatches.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|f:\\1. egyetemi tanulm\u00E1nyok\\c# alapok\\projekt\\sporteredmenyek-c-_alapok\\sporteredmenyek\\sporteredmenyek\\ui\\uiprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,24 +15,12 @@
       "RelativeMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|solutionrelative:sporteredmenyek\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|f:\\1. egyetemi tanulm\u00E1nyok\\c# alapok\\projekt\\sporteredmenyek-c-_alapok\\sporteredmenyek\\sporteredmenyek\\services\\matchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|solutionrelative:sporteredmenyek\\services\\matchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\bin\\Debug\\net8.0\\Data\\hockeyMatches.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sporteredmenyek\\bin\\Debug\\net8.0\\Data\\hockeyMatches.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|f:\\1. egyetemi tanulm\u00E1nyok\\c# alapok\\projekt\\sporteredmenyek-c-_alapok\\sporteredmenyek\\sporteredmenyek\\mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|solutionrelative:sporteredmenyek\\mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|f:\\1. egyetemi tanulm\u00E1nyok\\c# alapok\\projekt\\sporteredmenyek-c-_alapok\\sporteredmenyek\\sporteredmenyek\\dto\\jsonuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|solutionrelative:sporteredmenyek\\dto\\jsonuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|f:\\1. egyetemi tanulm\u00E1nyok\\c# alapok\\projekt\\sporteredmenyek-c-_alapok\\sporteredmenyek\\sporteredmenyek\\core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|solutionrelative:sporteredmenyek\\core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|f:\\1. egyetemi tanulm\u00E1nyok\\c# alapok\\projekt\\sporteredmenyek-c-_alapok\\sporteredmenyek\\sporteredmenyek\\dto\\jsonhockeydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|solutionrelative:sporteredmenyek\\dto\\jsonhockeydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|f:\\1. egyetemi tanulm\u00E1nyok\\c# alapok\\projekt\\sporteredmenyek-c-_alapok\\sporteredmenyek\\sporteredmenyek\\mappers\\hockeymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|solutionrelative:sporteredmenyek\\mappers\\hockeymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|f:\\1. egyetemi tanulm\u00E1nyok\\c# alapok\\projekt\\sporteredmenyek-c-_alapok\\sporteredmenyek\\sporteredmenyek\\mappers\\footballmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,12 +31,36 @@
       "RelativeMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|solutionrelative:sporteredmenyek\\mappers\\basketballmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|f:\\1. egyetemi tanulm\u00E1nyok\\c# alapok\\projekt\\sporteredmenyek-c-_alapok\\sporteredmenyek\\sporteredmenyek\\core\\models\\teamsintvaluepair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|solutionrelative:sporteredmenyek\\core\\models\\teamsintvaluepair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|f:\\1. egyetemi tanulm\u00E1nyok\\c# alapok\\projekt\\sporteredmenyek-c-_alapok\\sporteredmenyek\\sporteredmenyek\\dto\\jsonfootballdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|solutionrelative:sporteredmenyek\\dto\\jsonfootballdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|f:\\1. egyetemi tanulm\u00E1nyok\\c# alapok\\projekt\\sporteredmenyek-c-_alapok\\sporteredmenyek\\sporteredmenyek\\core\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|solutionrelative:sporteredmenyek\\core\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|f:\\1. egyetemi tanulm\u00E1nyok\\c# alapok\\projekt\\sporteredmenyek-c-_alapok\\sporteredmenyek\\sporteredmenyek\\dto\\jsonhockeydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|solutionrelative:sporteredmenyek\\dto\\jsonhockeydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|f:\\1. egyetemi tanulm\u00E1nyok\\c# alapok\\projekt\\sporteredmenyek-c-_alapok\\sporteredmenyek\\sporteredmenyek\\dto\\jsonbasketballdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|solutionrelative:sporteredmenyek\\dto\\jsonbasketballdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|f:\\1. egyetemi tanulm\u00E1nyok\\c# alapok\\projekt\\sporteredmenyek-c-_alapok\\sporteredmenyek\\sporteredmenyek\\core\\models\\basketballmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|solutionrelative:sporteredmenyek\\core\\models\\basketballmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|f:\\1. egyetemi tanulm\u00E1nyok\\c# alapok\\projekt\\sporteredmenyek-c-_alapok\\sporteredmenyek\\sporteredmenyek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|solutionrelative:sporteredmenyek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|f:\\1. egyetemi tanulm\u00E1nyok\\c# alapok\\projekt\\sporteredmenyek-c-_alapok\\sporteredmenyek\\sporteredmenyek\\services\\matchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|solutionrelative:sporteredmenyek\\services\\matchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|f:\\1. egyetemi tanulm\u00E1nyok\\c# alapok\\projekt\\sporteredmenyek-c-_alapok\\sporteredmenyek\\sporteredmenyek\\core\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736C9BD2-107A-46D7-9437-5A513ECC61DB}|Sporteredmenyek\\Sporteredmenyek.csproj|solutionrelative:sporteredmenyek\\core\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\bin\\Debug\\net8.0\\Data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sporteredmenyek\\bin\\Debug\\net8.0\\Data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 125,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,105 +82,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BasketballMatch.cs",
-              "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Core\\Models\\BasketballMatch.cs",
-              "RelativeDocumentMoniker": "Sporteredmenyek\\Core\\Models\\BasketballMatch.cs",
-              "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Core\\Models\\BasketballMatch.cs",
-              "RelativeToolTip": "Sporteredmenyek\\Core\\Models\\BasketballMatch.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAmwB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T11:52:09.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Match.cs",
-              "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Core\\Models\\Match.cs",
-              "RelativeDocumentMoniker": "Sporteredmenyek\\Core\\Models\\Match.cs",
-              "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Core\\Models\\Match.cs",
-              "RelativeToolTip": "Sporteredmenyek\\Core\\Models\\Match.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T11:37:23.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "users.json",
-              "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\bin\\Debug\\net8.0\\Data\\users.json",
-              "RelativeDocumentMoniker": "Sporteredmenyek\\bin\\Debug\\net8.0\\Data\\users.json",
-              "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\bin\\Debug\\net8.0\\Data\\users.json",
-              "RelativeToolTip": "Sporteredmenyek\\bin\\Debug\\net8.0\\Data\\users.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-29T10:30:36.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "UserService.cs",
               "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Sporteredmenyek\\Services\\UserService.cs",
               "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Services\\UserService.cs",
               "RelativeToolTip": "Sporteredmenyek\\Services\\UserService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T10:21:20.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UiPrinter.cs",
-              "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\UI\\UiPrinter.cs",
-              "RelativeDocumentMoniker": "Sporteredmenyek\\UI\\UiPrinter.cs",
-              "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\UI\\UiPrinter.cs",
-              "RelativeToolTip": "Sporteredmenyek\\UI\\UiPrinter.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAIwEEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T09:46:02.793Z",
+              "WhenOpened": "2025-04-29T21:52:43.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HockeyMatch.cs",
-              "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Core\\Models\\HockeyMatch.cs",
-              "RelativeDocumentMoniker": "Sporteredmenyek\\Core\\Models\\HockeyMatch.cs",
-              "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Core\\Models\\HockeyMatch.cs",
-              "RelativeToolTip": "Sporteredmenyek\\Core\\Models\\HockeyMatch.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAIwD0AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T21:05:14.999Z",
+              "Title": "hockeyMatches.json",
+              "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\bin\\Debug\\net8.0\\Data\\hockeyMatches.json",
+              "RelativeDocumentMoniker": "Sporteredmenyek\\bin\\Debug\\net8.0\\Data\\hockeyMatches.json",
+              "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\bin\\Debug\\net8.0\\Data\\hockeyMatches.json",
+              "RelativeToolTip": "Sporteredmenyek\\bin\\Debug\\net8.0\\Data\\hockeyMatches.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T21:50:45.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserMapper.cs",
-              "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Mappers\\UserMapper.cs",
-              "RelativeDocumentMoniker": "Sporteredmenyek\\Mappers\\UserMapper.cs",
-              "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Mappers\\UserMapper.cs",
-              "RelativeToolTip": "Sporteredmenyek\\Mappers\\UserMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T16:13:50.637Z"
+              "DocumentIndex": 0,
+              "Title": "footballMatches.json",
+              "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\bin\\Debug\\net8.0\\Data\\footballMatches.json",
+              "RelativeDocumentMoniker": "Sporteredmenyek\\bin\\Debug\\net8.0\\Data\\footballMatches.json",
+              "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\bin\\Debug\\net8.0\\Data\\footballMatches.json",
+              "RelativeToolTip": "Sporteredmenyek\\bin\\Debug\\net8.0\\Data\\footballMatches.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T21:46:56.896Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "JsonUserDto.cs",
-              "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Dto\\JsonUserDto.cs",
-              "RelativeDocumentMoniker": "Sporteredmenyek\\Dto\\JsonUserDto.cs",
-              "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Dto\\JsonUserDto.cs",
-              "RelativeToolTip": "Sporteredmenyek\\Dto\\JsonUserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "JsonHockeyDto.cs",
+              "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Dto\\JsonHockeyDto.cs",
+              "RelativeDocumentMoniker": "Sporteredmenyek\\Dto\\JsonHockeyDto.cs",
+              "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Dto\\JsonHockeyDto.cs",
+              "RelativeToolTip": "Sporteredmenyek\\Dto\\JsonHockeyDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T16:12:47.866Z"
+              "WhenOpened": "2025-04-29T21:42:03.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JsonFootballDto.cs",
+              "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Dto\\JsonFootballDto.cs",
+              "RelativeDocumentMoniker": "Sporteredmenyek\\Dto\\JsonFootballDto.cs",
+              "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Dto\\JsonFootballDto.cs",
+              "RelativeToolTip": "Sporteredmenyek\\Dto\\JsonFootballDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:41:59.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JsonBasketballDto.cs",
+              "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Dto\\JsonBasketballDto.cs",
+              "RelativeDocumentMoniker": "Sporteredmenyek\\Dto\\JsonBasketballDto.cs",
+              "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Dto\\JsonBasketballDto.cs",
+              "RelativeToolTip": "Sporteredmenyek\\Dto\\JsonBasketballDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:41:47.259Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -202,120 +166,114 @@
               "RelativeDocumentMoniker": "Sporteredmenyek\\Mappers\\HockeyMapper.cs",
               "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Mappers\\HockeyMapper.cs",
               "RelativeToolTip": "Sporteredmenyek\\Mappers\\HockeyMapper.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwCcAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T09:49:48.96Z",
+              "WhenOpened": "2025-04-29T21:41:31.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Program.cs",
-              "RelativeDocumentMoniker": "Sporteredmenyek\\Program.cs",
-              "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Program.cs",
-              "RelativeToolTip": "Sporteredmenyek\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T17:57:27.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MatchService.cs",
-              "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Services\\MatchService.cs",
-              "RelativeDocumentMoniker": "Sporteredmenyek\\Services\\MatchService.cs",
-              "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Services\\MatchService.cs",
-              "RelativeToolTip": "Sporteredmenyek\\Services\\MatchService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T17:00:55.051Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FootballMatch.cs",
-              "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Core\\Models\\FootballMatch.cs",
-              "RelativeDocumentMoniker": "Sporteredmenyek\\Core\\Models\\FootballMatch.cs",
-              "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Core\\Models\\FootballMatch.cs",
-              "RelativeToolTip": "Sporteredmenyek\\Core\\Models\\FootballMatch.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAADwvz8AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T16:16:15.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 6,
               "Title": "BasketballMapper.cs",
               "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Mappers\\BasketballMapper.cs",
               "RelativeDocumentMoniker": "Sporteredmenyek\\Mappers\\BasketballMapper.cs",
               "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Mappers\\BasketballMapper.cs",
               "RelativeToolTip": "Sporteredmenyek\\Mappers\\BasketballMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCUAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T09:45:03.958Z"
+              "WhenOpened": "2025-04-29T21:41:01.006Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 10,
+              "Title": "BasketballMatch.cs",
+              "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Core\\Models\\BasketballMatch.cs",
+              "RelativeDocumentMoniker": "Sporteredmenyek\\Core\\Models\\BasketballMatch.cs",
+              "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Core\\Models\\BasketballMatch.cs",
+              "RelativeToolTip": "Sporteredmenyek\\Core\\Models\\BasketballMatch.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:40:54.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UiPrinter.cs",
+              "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\UI\\UiPrinter.cs",
+              "RelativeDocumentMoniker": "Sporteredmenyek\\UI\\UiPrinter.cs",
+              "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\UI\\UiPrinter.cs",
+              "RelativeToolTip": "Sporteredmenyek\\UI\\UiPrinter.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAA9wFsAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:24:12.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Match.cs",
+              "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Core\\Models\\Match.cs",
+              "RelativeDocumentMoniker": "Sporteredmenyek\\Core\\Models\\Match.cs",
+              "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Core\\Models\\Match.cs",
+              "RelativeToolTip": "Sporteredmenyek\\Core\\Models\\Match.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:21:14.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MatchService.cs",
+              "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Services\\MatchService.cs",
+              "RelativeDocumentMoniker": "Sporteredmenyek\\Services\\MatchService.cs",
+              "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Services\\MatchService.cs",
+              "RelativeToolTip": "Sporteredmenyek\\Services\\MatchService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwEcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:10:14.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "FootballMapper.cs",
               "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Mappers\\FootballMapper.cs",
               "RelativeDocumentMoniker": "Sporteredmenyek\\Mappers\\FootballMapper.cs",
               "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Mappers\\FootballMapper.cs",
               "RelativeToolTip": "Sporteredmenyek\\Mappers\\FootballMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCcAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T09:21:31.188Z"
+              "WhenOpened": "2025-04-29T21:09:51.252Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "JsonHockeyDto.cs",
-              "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Dto\\JsonHockeyDto.cs",
-              "RelativeDocumentMoniker": "Sporteredmenyek\\Dto\\JsonHockeyDto.cs",
-              "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Dto\\JsonHockeyDto.cs",
-              "RelativeToolTip": "Sporteredmenyek\\Dto\\JsonHockeyDto.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA5wAgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T09:08:08.94Z"
+              "DocumentIndex": 14,
+              "Title": "users.json",
+              "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\bin\\Debug\\net8.0\\Data\\users.json",
+              "RelativeDocumentMoniker": "Sporteredmenyek\\bin\\Debug\\net8.0\\Data\\users.json",
+              "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\bin\\Debug\\net8.0\\Data\\users.json",
+              "RelativeToolTip": "Sporteredmenyek\\bin\\Debug\\net8.0\\Data\\users.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T20:59:24.384Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Team.cs",
-              "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Core\\Models\\Team.cs",
-              "RelativeDocumentMoniker": "Sporteredmenyek\\Core\\Models\\Team.cs",
-              "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Core\\Models\\Team.cs",
-              "RelativeToolTip": "Sporteredmenyek\\Core\\Models\\Team.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Program.cs",
+              "RelativeDocumentMoniker": "Sporteredmenyek\\Program.cs",
+              "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Program.cs",
+              "RelativeToolTip": "Sporteredmenyek\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T17:23:03.058Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "TeamsIntValuePair.cs",
-              "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Core\\Models\\TeamsIntValuePair.cs",
-              "RelativeDocumentMoniker": "Sporteredmenyek\\Core\\Models\\TeamsIntValuePair.cs",
-              "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Core\\Models\\TeamsIntValuePair.cs",
-              "RelativeToolTip": "Sporteredmenyek\\Core\\Models\\TeamsIntValuePair.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T17:40:34.721Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "User.cs",
-              "DocumentMoniker": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Core\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Sporteredmenyek\\Core\\Models\\User.cs",
-              "ToolTip": "F:\\1. Egyetemi tanulm\u00E1nyok\\C# alapok\\Projekt\\Sporteredmenyek-C-_alapok\\Sporteredmenyek\\Sporteredmenyek\\Core\\Models\\User.cs",
-              "RelativeToolTip": "Sporteredmenyek\\Core\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T17:48:53.679Z"
+              "WhenOpened": "2025-04-29T19:55:14.668Z",
+              "EditorCaption": ""
             }
           ]
         }

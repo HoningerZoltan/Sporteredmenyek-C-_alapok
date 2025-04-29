@@ -64,6 +64,13 @@ namespace Sporteredmenyek.Services
         {
             return _matches;
         }
+        public void AddMatch(Match match) 
+        {
+            _matches.Add(match);
+            SaveFootballMatches();
+            SaveBasketballMatches();
+            SaveHockeyMatches();
+        }
         public void SaveFootballMatches()
         {
             List<FootballMatch> matches = getFootballMatches();

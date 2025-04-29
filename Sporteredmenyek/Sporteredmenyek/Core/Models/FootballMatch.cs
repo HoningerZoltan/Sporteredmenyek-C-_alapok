@@ -19,14 +19,12 @@ namespace Sporteredmenyek.Core.Models
             string awayTeam, 
             DateTime start_time,
             string location,
-             List<TeamsIntValuePair> periodResults,
             TeamsIntValuePair result, 
             TeamsIntValuePair redCards, 
             TeamsIntValuePair yellowCards, 
             TeamsIntValuePair corners
         ) : base(homeTeam, awayTeam, start_time, location, result)
         {
-            PeriodResults = periodResults;
             RedCards = redCards;
             YellowCards = yellowCards;
             Corners = corners;

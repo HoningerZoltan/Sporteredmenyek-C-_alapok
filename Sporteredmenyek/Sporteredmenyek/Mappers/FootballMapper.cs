@@ -15,11 +15,6 @@ namespace Sporteredmenyek.Mappers
 
             List<int> periodResultsHome = new List<int>();
             List<int> periodResultsAway = new List<int>();
-            foreach (var result in match.PeriodResults)
-            {
-                periodResultsHome.Add(result.Home);
-                periodResultsAway.Add(result.Away);
-            }
             return new JsonFootballDto
             {
                 HomeTeam = match.HomeTeam,
@@ -33,9 +28,7 @@ namespace Sporteredmenyek.Mappers
                 RedCardsHome = match.RedCards.Home,
                 RedCardAway = match.RedCards.Away,
                 CornersHome = match.Corners.Home,
-                CornersAway = match.Corners.Away,
-                PeriodResultsHome = periodResultsHome,
-                PeriodResultsAway = periodResultsAway
+                CornersAway = match.Corners.Away
 
             };
         }
@@ -45,13 +38,6 @@ namespace Sporteredmenyek.Mappers
             result.Home = dto.ResultHome;
             result.Away = dto.ResultAway;
             List<TeamsIntValuePair> periodResults = new List<TeamsIntValuePair>();
-            for (int i = 0; i < dto.PeriodResultsAway.Count; i++)
-            {
-                TeamsIntValuePair pair = new TeamsIntValuePair();
-                pair.Home = dto.PeriodResultsHome[i];
-                pair.Away = dto.PeriodResultsAway[i];
-                periodResults.Add(pair);
-            }
             TeamsIntValuePair yellowCards = new TeamsIntValuePair();
             result.Home = dto.YellowCardsHome;
             result.Away = dto.YellowCardAway;
@@ -68,7 +54,6 @@ namespace Sporteredmenyek.Mappers
                 dto.AwayTeam,
                 dto.StartTime,
                 dto.Location,
-                periodResults,
                 result,
                 redCards,
                 yellowCards,

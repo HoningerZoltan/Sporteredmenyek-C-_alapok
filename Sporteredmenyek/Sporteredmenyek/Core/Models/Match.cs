@@ -14,7 +14,6 @@ namespace Sporteredmenyek.Core.Models
         TeamsIntValuePair Result
     )
     {
-        public List<TeamsIntValuePair> PeriodResults { get; init; } = new();
         
         public abstract int PeriodsNumber { get; }
         public abstract void Print();

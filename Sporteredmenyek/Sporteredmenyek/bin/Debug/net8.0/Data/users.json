@@ -8,5 +8,15 @@
     "Name": "valaki",
     "Email": "ez@ez.hu",
     "Password": "4321"
+  },
+  {
+    "Name": "testuser3",
+    "Email": "test3@freemail.hu",
+    "Password": "testtest"
+  },
+  {
+    "Name": "admin",
+    "Email": "admin@admin.hu",
+    "Password": "admin"
   }
 ]

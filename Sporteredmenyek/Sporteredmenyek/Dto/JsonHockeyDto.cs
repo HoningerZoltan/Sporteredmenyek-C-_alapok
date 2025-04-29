@@ -14,8 +14,6 @@ namespace Sporteredmenyek.Dto
         public string Location { get; set; }
         public int ResultHome { get; set; }
         public int ResultAway { get; set; }
-        public List<int> PeriodResultsHome { get; set; }
-        public List<int> PeriodResultsAway { get; set; }
 
         public int PenaltyMinutesHome { get; set; }
         public int PenaltyMinutesAway { get; set; }

@@ -1,0 +1,16 @@
+[
+  {
+    "HomeTeam": "FC Barcelona",
+    "AwayTeam": "Real Madrid",
+    "StartTime": "2025-04-26T19:00:00",
+    "Location": "Camp Nou",
+    "ResultHome": 0,
+    "ResultAway": 0,
+    "RedCardsHome": 0,
+    "RedCardAway": 0,
+    "YellowCardsHome": 0,
+    "YellowCardAway": 0,
+    "CornersHome": 0,
+    "CornersAway": 0
+  }
+]
