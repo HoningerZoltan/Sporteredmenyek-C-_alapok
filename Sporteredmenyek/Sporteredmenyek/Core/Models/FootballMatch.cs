@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Spectre.Console;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -32,7 +33,36 @@ namespace Sporteredmenyek.Core.Models
         }
         public override void Print()
         {
-            Console.WriteLine("Football");
+            var kozos = new Table();
+            kozos.Width(80);
+            kozos.Border(TableBorder.None);
+            kozos.AddColumn(new TableColumn(new Markup("[bold]----------------------------- Labdarúgás -----------------------------[/]")).Centered()).Centered();
+
+            kozos.AddRow(new Markup($"[white]Időpont: {StartTime.ToShortTimeString()}[/]").Centered());
+            kozos.AddRow(new Markup($"[white]Helyszín: {Location}[/]").Centered());
+
+
+
+            var table = new Table();
+            table.Border(TableBorder.Rounded);
+            table.Width(80);
+            table.AddColumn("").Centered();
+            table.AddColumn("Hazai csapat").Centered();
+            table.AddColumn("Vendég csapat").Centered();
+
+
+            table.AddRow("Név:", HomeTeam, AwayTeam);
+            table.AddRow("Eredmény:", Result.Home.ToString(), Result.Away.ToString());
+            table.AddRow("Szögletek:", Corners.Home.ToString(), Corners.Away.ToString());
+            table.AddRow("Sárga lapok:", YellowCards.Home.ToString() + " db", YellowCards.Away.ToString() + " db");
+            table.AddRow("Piros lapok:", RedCards.Home.ToString() + " db", RedCards.Away.ToString() + " db");
+
+
+
+            AnsiConsole.Write(kozos);
+            AnsiConsole.Write(table);
+            Console.WriteLine("\n\n");
+
         }
 
     }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sporteredmenyek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d5880c1b5816553d6fb0fdb45f93945c50e50ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0641b6a0386e7bb1ae48d2faa1a755ed4c7e3889")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sporteredmenyek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sporteredmenyek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

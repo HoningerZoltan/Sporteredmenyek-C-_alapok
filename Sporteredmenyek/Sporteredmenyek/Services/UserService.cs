@@ -20,6 +20,10 @@ namespace Sporteredmenyek.Services
             this._path = path;
             LoadUsers();
         }
+        public void AddUser(User user) {
+            _users.Add(user);
+            SaveUsers();
+        }
 
 
         public void SaveUsers()

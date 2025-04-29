@@ -13,3 +13,6 @@ F:\1. Egyetemi tanulmányok\C# alapok\Projekt\Sporteredmenyek-C-_alapok\Sportere
 F:\1. Egyetemi tanulmányok\C# alapok\Projekt\Sporteredmenyek-C-_alapok\Sporteredmenyek\Sporteredmenyek\obj\Debug\net8.0\Sporteredmenyek.pdb
 F:\1. Egyetemi tanulmányok\C# alapok\Projekt\Sporteredmenyek-C-_alapok\Sporteredmenyek\Sporteredmenyek\obj\Debug\net8.0\Sporteredmenyek.genruntimeconfig.cache
 F:\1. Egyetemi tanulmányok\C# alapok\Projekt\Sporteredmenyek-C-_alapok\Sporteredmenyek\Sporteredmenyek\obj\Debug\net8.0\ref\Sporteredmenyek.dll
+F:\1. Egyetemi tanulmányok\C# alapok\Projekt\Sporteredmenyek-C-_alapok\Sporteredmenyek\Sporteredmenyek\bin\Debug\net8.0\Spectre.Console.dll
+F:\1. Egyetemi tanulmányok\C# alapok\Projekt\Sporteredmenyek-C-_alapok\Sporteredmenyek\Sporteredmenyek\obj\Debug\net8.0\Sporteredmenyek.csproj.AssemblyReference.cache
+F:\1. Egyetemi tanulmányok\C# alapok\Projekt\Sporteredmenyek-C-_alapok\Sporteredmenyek\Sporteredmenyek\obj\Debug\net8.0\Sportere.74681955.Up2Date
